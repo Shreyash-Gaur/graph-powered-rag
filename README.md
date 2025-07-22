@@ -51,7 +51,7 @@ graph-powered-rag/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/graph-powered-rag.git
+   git clone https://github.com/Shreyash-Gaur/graph-powered-rag.git
    cd graph-powered-rag
    ```
 
